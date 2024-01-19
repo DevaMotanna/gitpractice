@@ -1,0 +1,3 @@
+GIt Init      ------------------> Initialize Git Repo
+Git Add       ------------------> Add Files to The Staging Area
+Git Commit -m "Message" ------------------> commit
